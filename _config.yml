@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: mmistakes/jekyll-theme-skinny-bones
 title: XYD // NOISE MACHINES
 description: utilitarian tools for the busy electronic musician
 
