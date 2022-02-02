@@ -8,7 +8,7 @@ Utilitarian tools for music producers."
 layout: page
 ---
 
-## 🏗️🚧👷‍♀️ Under Construction
+### 🏗️🚧👷‍♀️ Under Construction
 Hi! This page is currently under construction, you can come back later!
 
 ### What Will This Site Be?
@@ -18,4 +18,3 @@ XYD - NOISE MACHINES will be a manufacturer of affordable/free sample packs for 
 If you want something I've made, check these other projects out:
 - Open-source VST plugins written in Rust: [Flux-Audio](https://github.com/flux-audio)
 - My music: [XYdamage](https://xydamage.bandcamp.com)
-
