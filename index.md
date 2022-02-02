@@ -1,9 +1,9 @@
 ---
-title: XYD // NOISE MACHINES // LANDING
+title: XYD // NOISE MACHINES
 aside: false
 comments: false
 feature_image: ""
-feature_text: "XYD // NOISE MACHINES"
+feature_text: "# XYD // NOISE MACHINES"
 layout: page
 ---
 
