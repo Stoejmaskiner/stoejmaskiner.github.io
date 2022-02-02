@@ -2,5 +2,14 @@ remote_theme: daviddarnes/alembic@main
 title: XYD // NOISE MACHINES
 description: utilitarian tools for the busy electronic musician
 
-
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
 
