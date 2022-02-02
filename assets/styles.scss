@@ -1,0 +1,78 @@
+---
+title: false
+styles: true
+---
+
+// === typography ===
+$linkColour: #ff2945;
+$accentColour: #ff2945;
+$hoverColour: black;
+$headingColour: black;
+$bodyColour: black;
+$focusColour: #3257db;
+$captionColour: #7D7C78;    // Copic T-7
+$backgroundColour: #E9EAE8; // Copic T-2
+$white: #E9EAE8;
+
+$headingtype: (
+    font-family: '"Archivo Black", sans-serif',
+    cap-height: 0.75
+);
+
+$bodytype: (
+    font-family: '"IBM Plex Sans", serif',
+    regular: 500,
+    bold: 800,
+    italic: italic,
+    cap-height: 0.75
+);
+
+$monospacetype: (
+    font-family: '"IBM Plex Mono", monospace',
+    cap-height: 0.68
+);
+
+// === override theme style ===
+.nav a {
+    font-family: "Archivo Narrow";
+}
+
+.feature {
+    margin-bottom: 0 !important;
+}
+
+#xyd--noise-machines {
+    font-size: 3em;
+}
+
+// === misc ===
+
+hr.brutal_hr {
+    width: 1000%            !important;
+    margin-left: -500%      !important;
+    margin-top: 0           !important;
+    margin-bottom: 0        !important;
+    padding: 0              !important;
+    border-style: hidden    !important;
+    border-width: 0         !important;
+    border-top-width: 2px   !important;
+    border-top-style: solid !important;
+    overflow: hidden        !important;
+}
+
+hr.brutal_hr_p {
+    width: 1000%            !important;
+    margin-left: -500%      !important;
+    margin-top: 50px        !important;
+    margin-bottom: 50px     !important;
+    padding: 0              !important;
+    border-style: hidden    !important;
+    border-width: 0         !important;
+    border-top-width: 2px   !important;
+    border-top-style: solid !important;
+    overflow: hidden        !important;
+}
+
+@import "alembic";
+@import "plugin_gallery";
+

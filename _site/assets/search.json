@@ -1,0 +1,81 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "XYD_Pxx - Test Plugin",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec fringilla eros. Praesent placerat velit justo, id mattis turpis eleifend.\n",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec fringilla eros. Praesent placerat velit justo, id mattis turpis eleifend.\n",
+        "url": "/col_plugins/XYD_Pxx%20-%20test%20plugin/"
+      },
+    
+  
+    
+    
+      {
+        "title": "XYD_SPxx - Test Sample Pack",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec fringilla eros. Praesent placerat velit justo, id mattis turpis eleifend.\n",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec fringilla eros. Praesent placerat velit justo, id mattis turpis eleifend.\n",
+        "url": "/col_sample_packs/XYD_SPxx%20-%20test%20sample%20pack/"
+      },
+    
+  
+    
+    
+  
+  
+  
+  {
+    "title": "XYD_Pxx - Test Plugin",
+    "excerpt": "\n",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec fringilla eros. Praesent placerat velit justo, id mattis turpis eleifend.\n",
+    "url": "/_col_plugins/XYD_Pxx%20-%20test%20plugin/"
+  },
+  
+  {
+    "title": "XYD_SPxx - Test Sample Pack",
+    "excerpt": "\n",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec fringilla eros. Praesent placerat velit justo, id mattis turpis eleifend.\n",
+    "url": "/_col_sample_packs/XYD_SPxx%20-%20test%20sample%20pack/"
+  },
+  
+  {
+    "title": "ABOUT US",
+    "excerpt": "\n",
+    "content": "\n  Who We Are\n  What We Do\n  What We Stand For\n  Where We Are Headed\n  FAQ\n\n\nWho We Are\nXYD - NOISE MACHINES is a small independent business run by Lorenzo P. (a.k.a. XYdamage), a computer engineering graduate and music producer.\n\nI have always found the relationship between technology and art to be deeply fascinating, so I ended up making electronic music and studying computer engineering. My knowledge of coding is thus being funneled into the artistic pursuit of making plugins (*happy programmer noises*).\n\nThe sample packs side of things stems from the fact that I barely finish any music, instead I get lost in sound design, and I have a massive collection of samples I have made, which will likely never be used in my own music. So instead, I decided to turn this obsession of mine into a small business, and I sell my samples at a low price or give them away for free.\n\nI’m not really in this for the money, more for the fun of it and for giving back something to the community. The monetization aspect is mostly there to keep this work financially sustainable.\n\nWhat We Do\nOur main areas of interest are:\n\n  sample packs\n    \n      Our sample packs are low-cost or even free. They are generally smaller and more specific than most commercial sample packs, so you only pay for what you need.\n      Our sample packs are straight-forward: we don’t believe in kitchen-sink sample packs, which cover a million genres but are mediocre in all of them.\n      Our sample packs are not over-produced. Most sample packs out there are frustratingly over-processed, have no dynamic range, so they make your mix muddy unless you spend time un-doing the excessive processing. We don’t like that, so we make our samples cleaner, less flashy, but more useful. This way, you also avoid replacing your own style with the style of whoever made the samples!\n    \n  \n  \n    plugins: our plugins are simple tools, with usability as their first priority. They each focus on a specific goal, but have some additional (optional) idiosyncrasies to add a little spice.\n\n    The user interface of our plugins is clean, and exposes the most essential controls and user-defined macros in a dedicated simplified UI, whereas the complete set of parameters is available in a separate area for those who want to delve deeper.\n  \n  blog: this blog exists so I (the curator of this page) can ramble about specific topics I find interesting. There are also a few more useful tutorials and guides, that I have written to help people out. For example, check out this post, which is a short guide to approaching electronic music production for the first time.\n\n\nAdditionally, we make other more obscure things which are not listed on the main navigation header because they are a bit too esoteric.\n\nWhat We Stand For\nI’m not gonna lie and preted that we have some grand moral purpose with this business. We generally just try to be nice. That said, we do have some guiding principles:\n\n\n  \n    Transparency: our products are always described as honestly as possible, and we don’t charge more than what they are worth. If you buy a 100 kicks sample pack, you get 100 usable general-purpose kick drums, no more no less.\n  \n  \n    Minimalism: we tend to lean on the side of simpler and more focussed products, because we believe that this produces a better product overall, allows us to sell smaller packs at more affordable prices, and prevents us from bloating our products with things you don’t need and didn’t want to pay for.\n  \n  \n    Accessibility: we want to make music production more accessible, because at the end of the day, the more people are in this community, the more fun we all have. For this reason we provide many free products, for those who cannot afford paying and we provide a lot of beginner-friendly guides on our blog.\n  \n  \n    Inclusion: we try to keep our products and website as inclusive as possible. Everyone is welcome here! If you think we did or wrote something that might exclude someone, don’t hesitate to let us know! Keep us accountable.\n  \n\n\nWhere We Are Headed\nAs of now, this is a small passion-driven project, curated by a single individual. For the time being, this is all we are and we can’t promise any grand future for this business. However, there are many things that we would like to do in the future. None of these are promises, just things to have on your radar:\n\n\n  Making a super powerful wavetable editor, which is compatible with most wavetable synths (xFer Serum, Arturia Pigments, Kilohertz PhasePlant, Vital, Synthesis Technology E350, …) free and open-source; to improve the landscape of wavetable synths overall.\n  Making Eurorack custom firmware.\n  Eventually making our own Eurorack modules (I have some ideas in regards to improving how polyphony works in Eurorack).\n  (this will most likely never happen) making a DAW. Why would we? Because I want it to work exactly as I want a DAW to work, and you can have that too if you like the way I work.\n  Making a live-coding environment for music making. Something that resembles a command-line based DAW/tracker.\n\n\nFAQ\nQ: Huh? What does any of this mean?\n\nA: If you are new to many of the terms on this website, perhaps you should check out this post, which is a primer on electronic music production for absolute beginngers. Many common terms are explained there.\n\nQ: What is a plugin?\n\nA: a plugin is a piece of software that extends the functionality of another program. Audio-plugins (which you might have heard referred to as VSTs colloquially) extend the functionality of music production software such as DAWs (digital audio workstations). You can read more about them in this wikipedia article.\n\nQ: What plugin formats do you support?\n\nA: we support VST3, AU, RTAS and AAX\n\nQ: Why don’t you support VST/VST2?\n\nA: because Steinberg (the owners of the VST format) do not give out licenses anymore, so legally we cannot make VST plugins. Most DAWs support VST3 nowadays, so we recommend using that format, or AU if you are on Mac.\n\nQ: Can I run your plugins in &lt;insert program here&gt;?\n\nA: you need to check your program’s manual, but if you are using a modern DAW, then probably yes.\n\nQ: What do you use to make plugins?\n\nA: our plugins are made in C++ using the Juce framework. We used to make them in Rust, but the lack of cross-platform plugin frameworks, and the not-so-mature GUI side of things pushed us away. We do want to go back to Rust eventually, as it is an awesome language, but things need to develop a bit first on the GUI side.\n\nQ: What is a sample pack?\n\nA: a sample pack is a collection of samples, i.e. small audio clips that can be used to make electronic music. For example a sample packs may contain drum hits, which can be sequenced to play a drum rhythm, without needing to record actual real drums.\n\nQ: What do you use to make sample packs?\n\nA: I (the curator) work in FL Studio. My go-to plugins for making music, besides my own, are Surge XT and Reaktor 6. I also own a small modular synth and a portable recorder.\n\nQ: Can I use your samples/plugins in a commercial piece of music?\n\nA: yes! You can use any of my products (free or paid) in your projects (commercial or non-commercial), as long as your use is transformative (i.e. you can’t package and re-sell my samples unchanged as your own samples).\n\nQ: Do I need to credit you?\n\nA: you don’t have to, but it is appreciated.\n\nQ: What is the license for your sample packs/plugins?\n\nA: you can read it here.\n\nQ: Do you offer any warranty for your plugins?\n\nA: no, but if the software doesn’t work as expected or doesn’t satisfy you, you can get a refund within 30 days from your purchase. If you have any further issues, don’t hesitate to contact us.\n\nQ: Do you offer refunds?\n\nA: yes, you can refund any product within 30 days from your purchase.\n\nQ: Can I give some samples/plugins I downloaded/bought to somebody else?\n\nA: in general, no. If you want to show someone our samples please just send them a link to this website. If you are just vibing with some producer friends and happen to pass them some of our samples, it’s not a big deal; but if you are re-distributing whole sample packs that’s not okay and infringes on our copyright.\n\nQ: Can I re-sell your samples/plugins?\n\nA: no. Absolutely not. If you are a sample pack/plugin vendor and would like to distribute our products on your platform please contact us first and we can negotiate a contract.\n\nQ: What is the license for the open-source code you share?\n\nA: the open-source code is usually under the MIT license, but there might be exceptions. The license is always included in the repository’s root. If it isn’t, please contact us so we can fix that.\n\nQ: Why don’t you have &lt;insert genre name&gt;-themed sample packs?\n\nA: because I don’t know how to make every genre, and I work alone in this business, so I prefer only to make samples within the genres I am proficient in (which are mainly Techno, Ambient and Experimental).\n\nQ: Can you make me a plugin?\n\nA: we take suggestions, head over to this page to leave suggestions for plugins, sample packs or new features to existing plugins. If you want a custom made plugin, please contact us, but we probably won’t make it, unless it’s an idea we really really vibe with.\n\nQ: I found a bug in one of your plugins, what do I do?\n\nA: head over to this page and open a new issue, but first make sure that it is indeed a new issue, by looking at the other issues that are currently open. If you don’t know what that means, there is a small guide at the linked page.\n\nQ: What did you use to make this website?\n\n*A: the website is made with the Jekyll static-website-generator and is hosted publicly on GitHub pages. I use a modified version of the Alembic theme for Jekyll.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "CONTACT US",
+    "excerpt": "\n",
+    "content": "You can contact Lorenzo P. (the curator) at any of these:\n\n  e-mail: xydamage@gmail.com\n  Twitter (may be slow to respond)\n  Facebook (may be slow to respond)\n  Instagram (may be slow to respond)\n\n",
+    "url": "/contact/"
+  },
+  
+  {
+    "title": "LICENSES",
+    "excerpt": "\n",
+    "content": "\n  Plugin License\n  Samples License\n  Open-source projects: usually MIT, unless a different license is stated in the project’s repository. Either way always check if a license file is included in the repository.\n\n",
+    "url": "/licenses/"
+  },
+  
+  {
+    "title": "OTHER STUFF",
+    "excerpt": "\n",
+    "content": "You’ve made it to the link dump! All this stuff would clutter the main navigation menu, so I put it here instead.\n\nInfo Stuff\n\n  Contact us\n  Licenses\n\n\nArtsy Stuff\n\n  Legacy Plugins\n\n",
+    "url": "/other/"
+  },
+  
+  {
+    "title": "PLUGINS",
+    "excerpt": "\n",
+    "content": "🏗️👷‍♀️🚧\n\nNothing here yet… We are working hard on our first plugin, and it’s going to be free!\n\nWhat is it? It’s a simple analog-modelled synth with a few tricks up its sleeve. But you’ll have to wait to know more details…\n\nIn the meantime, check out our free legacy plugins, which are made in Rust and are organic🌿 (for legal reasons I have to say that this is a joke).\n\n\n    HELLO!\n\n",
+    "url": "/plugins/"
+  }
+  
+]
+
