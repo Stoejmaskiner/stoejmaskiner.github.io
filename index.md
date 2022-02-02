@@ -1,5 +1,5 @@
 ---
-title: null
+title: "🏗️🚧👷‍♀️ Under Construction"
 aside: false
 comments: false
 feature_image: ""
@@ -9,7 +9,6 @@ Utilitarian tools for music producers."
 layout: page
 ---
 
-### 🏗️🚧👷‍♀️ Under Construction
 Hi! This page is currently under construction, you can come back later!
 
 ### What Will This Site Be?
